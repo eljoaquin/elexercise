@@ -1,0 +1,25 @@
+{
+  "name": "elexercise",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljoaquin/elexercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eljoaquin/elexercise/issues"
+  },
+  "homepage": "https://github.com/eljoaquin/elexercise#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.1"
+  }
+}
